@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm ogunkola modesayo</h1>
 
-My Portfolio
+<p align="center">Fullstack Developer</p>
 
-<p align="center">Frontend Developer</p>
-
-Check out my portfolio [here](https://gevork-portfolio.vercel.app/)
+<p align="center">Check out my portfolio: https://developerportfolio-orcin.vercel.app/</p>
 #
 <h1 >💫About Me :</h1>
 
