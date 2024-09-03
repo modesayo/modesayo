@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ogunkola modesayo</h1>
 
-# 💫About Me :
+💫About Me :
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 🌱 Exploring Technical Content Writing.
