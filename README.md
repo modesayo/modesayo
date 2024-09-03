@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm ogunkola modesayo</h1>
 
-# My Portfolio
+My Portfolio
 
-!Frontend Developer
+<p align="center">Frontend Developer</p>
 
 Check out my portfolio [here](https://gevork-portfolio.vercel.app/)
 #
-💫About Me :
+<h1 >💫About Me :</h1>
 
 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
